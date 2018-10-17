@@ -1,2 +1,2 @@
-# infinite-scroll.min
-Untuk Keperluan Berminat Blogger Template
+# kompasanime.com
+Repositori untuk blog kompasanime.com
